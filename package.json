@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tachyons-aspect-ratios": "^1.0.1",
+    "tachyons-floats": "^3.0.4",
+    "tachyons-hovers": "^2.5.1",
+    "tachyons-links": "^3.0.10",
+    "tachyons-overflow": "^4.0.5",
+    "tachyons-widths": "^5.2.1"
+  }
 }
