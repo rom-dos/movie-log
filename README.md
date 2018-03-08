@@ -6,18 +6,41 @@ image optimization
 ### to watch  
 
 
-#### Directors  
-
 ##### Wong Kar Wai
 
 ##### Akira Kurosawa  
 
-takeshi kitano
-bruce lee  
-wim wenders  
-werner herzog 
-tarkovsky
+##### Takeshi Kitano
+
+Sonatine  
+
+##### Bruce Lee  
+
+Enter The Dragon
+
+##### Charlie Kaufmann  
+
+##### Wim Wenders
+
+##### Werner Herzog 
+
+##### Andrei Tarkovsky  
+
+##### Tim Burton  
+
+##### Spike Lee  
+
+##### Studio Ghibli
+
+##### David Cronenberg
+
+#### Shunji Iwai
+
+
 
 ### watched  
 
-vertigo
+vertigo  
+wizard of oz 
+jackie brown
+
