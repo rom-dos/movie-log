@@ -36,11 +36,19 @@ Enter The Dragon
 
 #### Shunji Iwai
 
+All About Lily Chou Chou
+Hana to Alice  
 
+The Dekalog  
+Hausu  
+Casshern
 
 ### watched  
 
 vertigo  
 wizard of oz 
-jackie brown
+jackie brown  
+antitrust  
+vibrations  
+
 
