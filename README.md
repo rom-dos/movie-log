@@ -6,16 +6,18 @@ image optimization
 ### to watch  
 
 
-wong kar wai
-	in the mood for love
+#### Directors  
 
-akira kurosawa  
+##### Wong Kar Wai
+
+##### Akira Kurosawa  
+
 takeshi kitano
 bruce lee  
 wim wenders  
 werner herzog 
-children of men
+tarkovsky
 
 ### watched  
 
-chungking express  
+vertigo
