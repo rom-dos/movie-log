@@ -12,7 +12,6 @@ image optimization
 
 ##### Takeshi Kitano
 
-Sonatine  
 
 ##### Bruce Lee  
 
