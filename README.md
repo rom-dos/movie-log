@@ -37,16 +37,13 @@ Enter The Dragon
 
 Hana to Alice  
 
-Casshern
+Casshern  
 
-the fifth element
+chinatown
 
 ### watched  
 
-vertigo  
-wizard of oz 
-jackie brown  
 antitrust  
-vibrations  
+chasing train
 
 
