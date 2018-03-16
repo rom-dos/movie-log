@@ -1,7 +1,10 @@
 # README  
 
+### image optimization  
+
+no image needs to be larger than 650 - 700px wide.
+
 http://tachyons.io/components/collections/movies/index.html  
-image optimization
 
 ### to watch  
 
@@ -42,4 +45,4 @@ Casshern
 chinatown
 
 ### watched  
-
+whiplash
