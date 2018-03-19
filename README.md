@@ -42,7 +42,8 @@ Hana to Alice
 
 Casshern  
 
-chinatown
+chinatown  
+Good Time  
+Alien
 
 ### watched  
-whiplash
